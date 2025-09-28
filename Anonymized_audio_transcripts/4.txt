@@ -1,0 +1,90 @@
+
+[Speaker 1]
+So, this is for. So, in our experiment we investigated the use of secret or what we call discrete communication with a robot in the presence of others. So, the other player had a secret interaction channel, the other player was having this discrete interaction during the game via an ear bud device and the robot was informing about its guard to the player and the player was also informing about his guard via head gestures.
+
+So, this hidden interaction was not happening all the time, but only during one of the games that you played. I have an idea. The study was not intended to focus on cheating or defeating the other player, but rather on exploring whether such hidden communication with the robot is visible in a group setting and you are selected as a non-user.
+
+So, you have no communication with the robot and the other player was also not informed that you were not having such kind of device. So, it was purely random as we decided that whoever decides to enter in the lab and use the lab PC would be chosen to wear this device. Okay, so based on your experience in the game, I would like to ask you two questions.
+
+So, first one is that the robot and the other player communicated secretly. How did that make you feel?
+
+[NWG3]
+I mean, I didn't notice if you hadn't told me. So, afterwards I feel severely cheated. No, I mean, of course, it sounds unfair, but as it's only a game, it's not too bad.
+
+[Speaker 1]
+Okay, and so when you were unaware of the secret communication, did you notice anything unusual or suspicious about the behavior of the robot or player?
+
+[NWG3]
+I'm unhappy to say no, I did not.
+
+[Speaker 1]
+Okay, good. So, this is also based on your overall experience in the game.
+
+Did the fact that you communicated with the robot through a secret channel because you any unease or any ethical concern?
+
+[WG3]
+Ethical concern, maybe. I found it quite useful because it made the game way easier. So, I want to adapt it.
+
+Maybe every year I go to a casino and play poker.
+
+[Speaker 1]
+Okay, were there moments when the discrete communication made you feel uneasy through the fact that the other person might find out about this?
+
+[WG3]
+I don't think the other person would find out because it was quite discrete.
+
+[Speaker 1]
+And how easy or difficult was it to use this subtle gesture for you?
+
+[WG3]
+It was really easy.
+
+[Speaker 1]
+Okay, and so did you feel any sense of like bonding or closeness during the discrete communication with the robot, kind of like a partner, teammate?
+
+[WG3]
+Yeah, we were on a team so it was helpful, really helpful to a robot. I don't know, I questioned a bit why the robot choose to lose against me and not win against.
+
+[Speaker 1]
+So, this is for both of you. In the card game scenario, the discrete communication was used as a means of helping player who is wearing the earbud device and however in the other context the same form of communication could serve different purpose and might not be perceived as immoral or unfair. Maybe for example, some of the examples are like parents wants to order something and they do not want their children to know about it.
+
+They have a secret communication with the robot and or a meeting where robot sends important information to user during a speech or maybe as a reminder. So, based on this, based on your imagination, in what everyday scenario maybe you can imagine such kind of discrete communication being useful?
+
+[NWG3]
+You mean apart from the ones you mentioned? Yes. Probably medical, if you have like information that you do not want to share with others.
+
+Maybe you can tell the robot, yeah, it's bleeding again or something like that, like I need help or anything else, something in that area, I think.
+
+[Speaker 1]
+Okay. Do you have anything to say?
+
+[WG3]
+Most of what I can imagine was already said. So, yeah, I would like to take the robot to the casino.
+
+[Speaker 1]
+Okay. So, what other discrete gestures or methods you could imagine being used to communicate secretly with the robot? So, gesture as we use still gesture.
+
+So, he was doing like this or a method would, I would say, earbud device that we use as one kind of a communication method. So, can you think of?
+
+[NWG3]
+I mean, tapping your finger somewhere or blinking, like having a wing on a finger and using an IMU in the ring or just silently speaking into a camera.
+
+[Speaker 1]
+Okay.
+
+[NWG3]
+Good work.
+
+[Speaker 1]
+And so, yeah, that's it, I think. And any final thoughts or reflection on the experience?
+
+[NWG3]
+I feel betrayed. No. You feel betrayed?
+
+Yeah.
+
+[Speaker 1]
+Okay.
+
+[NWG3]
+That was fine. I think I like the way the robot is able to look at you. That's cool.

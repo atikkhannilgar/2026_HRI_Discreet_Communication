@@ -1,0 +1,172 @@
+[Speaker 1]
+So, in our experiment we investigated the use of a secret or what we call a discrete communication with a robot in the presence of others. And the other player had a secret interaction channel, the other player was having a discrete interaction during the game via ear bud device. And the robot was informing about its card to the player and player was also informing about its own card via some head gestures and this hidden interaction was not happening all the time, but only during one of the games that you played.
+
+The study was not intended to focus on a cheating or defeating the other player or having any deception during the game, but rather it was exploring whether such hidden communication is possible in the group setting. And you are selected as a non-user, so you have no hidden communication with the robot and the other player was not informed about this. And you were selected purely randomly as we decided that whoever decides to enter in the lab will wear this device.
+
+So, one of you just entered in the lab and was selected as a wearer. So, based on your overall experience in the game, I would like to ask you two questions. Yes, a good answer.
+
+Next question. Okay. So, the question for you is the robot and the other player was communicating secretly.
+
+How did that make you feel? You mean now that I know it? Yes.
+
+[NWG6]
+It's okay. It's nothing, it's not a big game. It was a very simple game, though also I could cheat during the gameplay, I figured out, simply because for one we just have three cards and I was also part of mixing, so I could also count the cards, which I tried a bit, but then I thought, okay, I missed them.
+
+So, on top must be the rock. Okay, then rock. What was up?
+
+Then I forgot it again. It was just one way where I could also cheat. I tried it, but it didn't succeed.
+
+It's not a big game.
+
+[NWG6]
+If this would be a game where, if we would win something in the end, then yes, it would be a bit unfair, but like this, it's nothing.
+
+[Speaker 1]
+We had a fun time, I would say. So, like, the second question for you, when you were unaware of the secret communication, and did you notice anything unusual or suspicious about the behavior of the robot or player? And if yes, then what was it?
+
+[NWG6]
+Okay. Nothing, I would say. So, I didn't pay attention much during that time, I paid more attention to the robot.
+
+Okay. The guards. Yeah, the guards.
+
+So, I didn't notice that.
+
+[Speaker 1]
+Okay. Now, this is a question for the wearer. So, it is the same thing, like the study wasn't intended to focus on cheating or any defeating other player, but rather on exploring whether such hidden communication with the robot is visible in a group setting.
+
+And as you know, I think whatever I said to the other player, you know about this. So, based on your overall experience in the game, I would like to ask you, did the fact that you communicated with the robot through a secret channel cause you any unease or any ethical concern?
+
+[WG6]
+I don't think so.
+
+[Speaker 1]
+No.
+
+[WG6]
+Okay. Now that we have probably had prior information and I don't give any personal information. You can just keep it to yourself.
+
+[Speaker 1]
+Okay.
+
+[WG6]
+So, I'm saying I don't feel any infringement of my own privacy because kind of I don't give my personal details or something like that. Okay. And yeah.
+
+[Speaker 1]
+And were there any moments when the discrete communication made you feel uneasy to the fact that other might find out?
+
+[WG6]
+Probably, if someone has information, trying to do the signals, you, if he is keen, even though it wasn't as he said, but someone could realize if it's a game of high intensity, like there is a prize you want to win at the end. But it was a simple game of fun.
+
+[Speaker 1]
+Okay. And how easy or difficult was to follow the gestures for you?
+
+[WG6]
+Fairly okay. Not difficult. It's a simple one plus one.
+
+[Speaker 1]
+Did you feel any sense of bonding or closeness with the discrete communication while doing the robot? You doing the discrete communication with the robot?
+
+[WG6]
+What do you mean the bonding?
+
+[Speaker 1]
+Do you feel like any sense of bonding or closeness? So, such as this like a secret partner for you or like a...
+
+[WG6]
+Yes, of course.
+
+[Speaker 1]
+Like a friend who is helping you in the game or something like that.
+
+[WG6]
+Yes, yes, yes. Because yeah, when the first round, I didn't feel the essence. The second round, of course, if I'm the one who is playing, I was waiting for a signal to...
+
+I think that's a bond. I couldn't play before. It just taught me what to do next.
+
+[Speaker 1]
+Okay.
+
+[WG6]
+Yes.
+
+[Speaker 1]
+So now, these are the questions for both of you. So, in the card game scenario, the discrete communication was used as a means of helping the player who is wearing the device. However, in other contexts, the same form of communication could also serve as different purpose and might not be perceived as immoral or unfair to others.
+
+For example, parents ordering a pizza secretly by a robot and they don't want the children to know about this or maybe meeting... There is an office meeting going on and the robot sends important information about user's call or remind them something important via this discrete communication. So, these are just some examples that I'm giving you of this technology.
+
+But I would like to ask you some questions on your imagination. In what everyday scenario, like maybe anything, like workplace or homes or healthcare or anything, can you imagine that this discrete communication of robots could be useful?
+
+[WG6]
+As the user of the time in the game, I think, yeah, it could be useful. Where maybe you want to do something secretive, as you said, in a group or even in homes and so on. It could be useful, yeah.
+
+And for you?
+
+[NWG6]
+Yeah, to be honest, I don't think it would be really useful for things like a game or even the office because then it would be okay to just... Oh, I got a text message on my phone, I need to check it. Is there something important or not?
+
+I would say we can do it even in our daily or weekly stand-up meeting and nobody would think bad of you. It would make no difference. But maybe instead of saying it's a secret channel, maybe using it as an aiding device for nurses or so.
+
+Maybe that would be interesting when they know... You're entering now a patient XYZ. He has that and that.
+
+Please give him medication that for during the meal time. He said he's allergic to peanuts. So don't give him the peanut paste dish.
+
+[WG6]
+In short, you're 50-50. We can use it here, we may not use it here.
+
+[NWG6]
+Yeah, it's depending on the area. Yeah.
+
+[Speaker 1]
+Okay, so second question for both of you is, what other discrete gestures or methods that you can imagine that could be used in such kind of secret communication?
+
+[WG6]
+Maybe touching.
+
+[Speaker 1]
+Okay.
+
+[WG6]
+Touching, face gestures, which I think now could involve a video camera or something. That's for non-wearable sensors, for example.
+
+[NWG6]
+Maybe also accelerometers, tapping like this.
+
+[WG6]
+I think it uses an accelerometer, right?
+
+[NWG6]
+Yeah, but on the fingers. A different touch. Or also tapping on the table, that you can recognize that, but on the table itself.
+
+[WG6]
+Yeah, I think so. Things like that. So to speak, there's so many ways you could go about it.
+
+[NWG6]
+Even things like air pressure meters, when you can just...
+
+[WG6]
+Wait. There could also be a signal. Sorry to interject, but you need to communicate with the robot.
+
+But how do you get the signal before you react, you respond? Because probably you need a voice. I have no idea how that works.
+
+In this case, let's say you get the signal from...
+
+[Speaker 1]
+It's up to your imagination.
+
+[WG6]
+If you have an eSense, yeah, there's so many other things you could do. If the robot has a camera, yeah, those could be done. Or you could wear different sensors somewhere else.
+
+Other than on top of the eSense, which I don't think is necessary. Now, if you have this and you can tilt, there's no point in doing another one somewhere else. But yeah, there could be more other ways.
+
+[Speaker 1]
+And final question for both of you. Is there any final thoughts or reflections? It's an open-ended question on the experience of the experiment.
+
+[NWG6]
+what can you say? I wouldn't say not much. Though maybe if we would sit in another way, with less focus on the robot, then it would feel more natural.
+
+For me, it just felt like we are there for the robot and not that the robot is there for us. But that also incurs the risk that I'm more likely to see that WG6 is cheating. And also, if we play more rounds consecutively, it would also feel a bit better for the gameplay.
+
+But then again, you have the chance that I will figure out that WG6 is cheating.
+
+[Speaker 1]
+Thank you very much for participating and for doing this interview. Yes, we are finished here.

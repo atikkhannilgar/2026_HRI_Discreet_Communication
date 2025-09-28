@@ -1,0 +1,130 @@
+[Speaker 1]
+In our experiment we investigated the use of a secret or what we call a discrete communication with a robot in the presence of others. So, the other player had a secret interaction channel. The other player was having discrete interaction during the game via an ear bud device and the robot was informing about its card to the player and the player was also informing about this card via some head gestures.
+
+This hidden interaction was not happening all the time, but only during one of the games that you played. The study was not intended to focus on cheating or defeating the other player or deception, but it was rather on exploring whether such hidden communication with a robot is feasible in such kind of a group setting. So, you are selected as a non-user, so you have no hidden communication with the robot and the other player was also like not informed about this that you did not have the hidden communication and you were selected purely randomly as we decided that whoever decides to use the lab PC would do this discrete communication and the other player will not have this.
+
+So, based on your overall experience in the game, I would like to ask you two questions. So, first one is the robot and the player was communicating secretly. So, how did that make you feel?
+
+[NWG9]
+If I would not have seen the ear bud, I probably would not have guessed. If the person individually would not have changed their expressions, if that was not like prominent, then I would not have guessed it because the robot was behaving perfectly as before. Yeah, that is the thing.
+
+[Speaker 1]
+And so, when you were unaware of the secret communication, did you notice anything unusual, suspicious about the behaviors of the robot or player that specifically caught your attention, something like this? I think which already answered about that.
+
+[NWG9]
+Yeah, if the human emotions are expressed, then it is fine.
+
+[Speaker 1]
+So, you feel that there is something is going on there?
+
+[NWG9]
+Yeah. Okay. In the robot's eyes, I did not feel any difference.
+
+[Speaker 1]
+Okay. And these are some questions to you, I think because you already know now that what was the experiment was. So, based on your overall experience in the game, I would like to ask you a few questions.
+
+Did the fact that you communicated with the robot through a secret channel caused you any unease or any ethical concern?
+
+[WG9]
+As we were playing a game, it did cross my mind. But if it is for some other purpose, I would not mind using it as a useful resource.
+
+[Speaker 1]
+Were there moments when the discrete communication made you feel uneasy through the fact that other might find out about this like?
+
+[WG9]
+No, I did not find anything as such, because the robot was performing exactly fine.
+
+[Speaker 1]
+Yeah.
+
+[WG9]
+So, I did not feel like the other person will find out like something fishy is going on until unless I behave like the other person found it from my facial expression. Other than that, the robot performed really exceptionally well.
+
+[Speaker 1]
+Okay. And how easy or difficult was it for you to use such kind of subtle gesture head tilts as a discrete communication?
+
+[WG9]
+Oh, it is very handy. It is just like a daily gesture that we usually use on our earphones for our music purpose or picking up the calls on our usual earphones. So, it was very easy and handy to use.
+
+[Speaker 1]
+Okay. So, did you feel any sense of like bonding or closeness during discrete communication with the robot? So, it is like did you feel it like a partner or friend who is like helping you secretly?
+
+[WG9]
+Yeah, yeah, it did feel very friendly to me because first of all, the user interface is like really good. It looks into your eyes. So, it feels like some other actual human is looking at you or like is interacting with you.
+
+Secondly, when in the second game when it was helping me out, it was like behaving like some other person, actual person is helping me out. So, it did not feel robotic. Yeah, the voice of the robot may can be better, but otherwise, it felt really like a human being.
+
+[Speaker 1]
+Okay. I think this. So, we are finished with the individual questions.
+
+Now, I think I have two, three questions just regarding your to both of you. So, in the, this is a card game scenario, of course, and we use discrete communications, just two means of helping player who is wearing the earbud device and however, in the other context, the game, same, same form of communication could serve different purpose, right? And might not be perceived as immoral or unfair to other.
+
+And for example, like if this is some, some example like parents ordering something at home and they do not want to disclose this with the children like ordering pizza or something and some meeting is going on in office meeting when the robot informs something important to the user without catching the attention of others. So, I would like to ask you in what everyday scenarios, can you imagine such kind of discrete communication with robot if you have like anything in mind, maybe workplace, homes or healthcare anywhere?
+
+[WG9]
+So, like, one thing I can think of is like, like these days we are used to used to using cloud based devices in our homes, like smart devices like Alexa or something else. So, usually when all my devices are connected to Alexa or my other smart devices. So, if something comes up like in my phone or my laptop, if some notification comes up, it, it blatantly expels it out.
+
+So, if I'm having guests over my place, at that time I can, I feel like this kind of device could help me out like if I'm wearing this. So, it can directly tell me what, what's going on with my phone or my notification or if, if I'm in the kitchen, if I'm in the bedroom and something's going on in the kitchen, it can tell me like, yeah, you need to attend this without alarming the other people. So, in that kind of scenario where smart devices are everywhere in our house.
+
+So, in that kind of area, I can, I can sense like this, this might help or if I have installed a security device on my door, main door and if something's, if the camera finds something fishy and if I, even if I'm outside my house or somewhere else, it could, it could inform me directly over it. So, in that, that kind of scenario, I think this might be helpful.
+
+[Speaker 1]
+You have anything to say?
+
+[NWG9]
+I have two things, like in a meeting or a conference where you have a lot of content to present and you cannot just memorize two hours of content or you might miss out some points. So, that is one point where he can support if you miss out any point or he can at least give you pointers to frame your next paragraphs or whatever content you're explaining. And other thing was, it can help in journalism where you cannot actually be there, like, like the places in Syria, Israel, Gaza, where if that location is quite dangerous, the journalist can sit there and ask questions and just the robot can be present asking questions because it will just be an interface between two humans.
+
+[Speaker 1]
+The second question for both of you is, what other discrete gestures or methods that you can imagine being used to communicate secretly with these robots? So, this example gesture was like a head tilt, which we use.
+
+[WG9]
+So, are we doing this only with the headset or with using vision?
+
+[Speaker 1]
+So, this is just an example. So, there could be many ways that you can use different gestures, right, which could be your subtle gestures, which it is not identified by others and could look natural.
+
+[WG9]
+So, like if we are, if I'm wearing some wristband or I'm using the vision, so I might use my fingers, like pinch gesture or tapping one or two fingers. We could use those kind of feature, like gestures to, or to map some, some other things in our, like this robot to do some, some specific tasks because that is already done. Even the variables these days are usually pretty good in recognizing the wrist and finger gestures.
+
+So, those could also be helpful if vision or wristbands are inculcated.
+
+[NWG9]
+Yeah, I think blink or that can be used and otherwise, I think, yeah, hand gestures are even more prominent to understand.
+
+[Speaker 1]
+Some of the gestures that maybe I could also like tell you about is like some people have created a chewing gum kind of thing. So, if you chew it, but it looks natural, but it is sending some signal to other things. Also, there was some hand gestures with just itching your nose.
+
+So, it was also detected. So, this already, these are some things like which are already created. And so, any final thoughts or reflection, experience in the experiment you have?
+
+[WG9]
+So, this is purely based on the previous versions and this version of this because I have taken this survey previously as well. So, from what I have seen previously and now, this one looks very polished from what it was before. This is way, like way easier to use now.
+
+And it, it, it actually now it feels like it is something there, like it is, it can be an actual assistant, like a human assistant. It feels more and more towards that now. So, I see improvement in that direction as well now and especially the facial reactions of your bot, whatever you have developed and the way it is interacting, it is like it does not, I did not feel any lag or anything jitter while using the interface.
+
+So, it feels nice, it feels polished, more polished than ever before. Okay.
+
+[Speaker 1]
+Thank you.
+
+[NWG9]
+Yeah, and my was a first-hand experience. So, as WG9 said, it was really fluent, the whole experience was like without any problems or glitches and it really felt like there is a normal human being sitting there.
+
+[Speaker 1]
+I know that there was a problem in the camera which I was kind of using.
+
+[NWG9]
+Yeah, but. Other than the interfacing. Other than the, yeah, in the interface it was not an issue.
+
+It really felt like it is just like a normal human being.
+
+[Speaker 1]
+Okay. So, do you feel like this is like a social entity where you can communicate? Yeah.
+
+[NWG9]
+Yes, definitely. Actually. Like in a big party, if you are having this at some terminal to guide you through some other part of the party, then yeah, of course.
+
+[WG9]
+Or it can be used like, one thing I have noticed in one of the museums in Berlin, there they have kept this, some such kind of robot, physical robot where they have multiple sections over there and the robots, robot at the entrance asks you like which section you would like to explore. And you just have to tell him, the robot that, yeah, first I would like to go here and the robot will navigate through the entire museum and directly take you where you want, where you want to. So, this can be like, yeah, this feels more like that.
+
+[Speaker 1]
+Yeah. Okay, then thank you very much for your responses.

@@ -1,0 +1,151 @@
+
+
+[Speaker 1]
+Okay, so this is for you. So in our experiment, we investigated the use of a secret or what we call discrete communication with a robot in the presence of others. The other player had a secret interaction channel.
+
+The other player was having discrete interaction during the game via an earbud device and the robot was informing about its card to the player and the player was also informing about its card via head gestures. So this hidden interaction was not happening all the time, but only during one of the games that you played and the study was not in intended to focus on cheating or defeating the other player or deception but rather on exploring that whether such hidden communication with the robot is feasible in a group setting and you are selected as a non-user. So you are not wearing the device and this was pure random because we decided that whoever used the lab PC will wear this device and the other person won't wear this device.
+
+So based on your experience in the game, I would like to ask you two questions. The robot and the other player communicated secretly. So how did that make you feel?
+
+[NWG2]
+So I think I feel betrayed because I lost every single game and you have mentioned that the robot communicated only once.
+
+[Speaker 1]
+Yes, so in both of the games only one game was with the device.
+
+[NWG2]
+So but still I lost I think the game where the robot communicated and the one game where the robot didn't communicate. So I don't feel so good about it because I was not informed previously but obviously it would defeat the purpose.
+
+[Speaker 1]
+Yeah, but when you have a turn to guess it's pure your luck even because you are guessing so the secret communication doesn't help them.
+
+[NWG2]
+I was thinking while you were playing that why am I the one who is consistently losing. I was thinking maybe there's a mathematical trick behind it that I'm not following but I was not considering that there was some cheating going on.
+
+[Speaker 1]
+Okay, so when as you already answered your second question so when you were unaware of the secret communication did you notice anything unusual or suspicious about the behavior of the robot or player?
+
+[NWG2]
+I think he was smiling a lot so I thought something was fishy but I didn't consider the possibility that robot was communicating with him.
+
+[WG2]
+Maybe you should tell in which round you saw me smile the most.
+
+[NWG2]
+Second.
+
+[WG2]
+Okay then maybe it's because I think I wasn't cheating around.
+
+[Speaker 1]
+Okay and this is for you. So basically did the fact that you communicated with the robot through a secret channel cause you any unease or any ethical concern?
+
+[WG2]
+There wasn't. He just asked me to make some gesture with my head so it was okay. I wanted to also teach on Hamas so I was happy to help him.
+
+[Speaker 1]
+Okay and were there moments when the discrete communication made you feel uneasy through the fact that the other might find out about this?
+
+[WG2]
+No. I think he will be surprised. I wanted to tell him myself that he cheated against him so I feel good about it.
+
+[Speaker 1]
+Yeah. Okay. You had any concern like the other person might find out about this?
+
+[WG2]
+About me telling him that I'm cheating?
+
+[Speaker 1]
+No no about your gestures or about your secret communication with the robot.
+
+[WG2]
+Can you repeat the question?
+
+[Speaker 1]
+So were there moments when the discrete communication made you feel uneasy through the fact that the other might find out that I am having a secret communication during the game?
+
+[WG2]
+No.
+
+[Speaker 1]
+Okay so how easy or difficult was it to use these gestures?
+
+[WG2]
+It was pretty easy. I just had to make sure that I don't unknowingly make a head gesture in that direction because usually I used to make some movement in my head but on the second round I had to hold my head on the left side to wait for him to say okay do you have that card so that I can make a gesture to the right side to confirm otherwise.
+
+[Speaker 1]
+And did you feel any sense of like bonding or closeness during discrete communication with the robot?
+
+[WG2]
+Yes I had the impression that two against one.
+
+[Speaker 1]
+Okay so this is for both of you. So in the card game scenario this discrete communication was used as a means of helping player who is wearing the earbud device. However in other contexts the same form of communication could serve different purpose and might not be perceived as unfair.
+
+For example there is a meeting going on and users need to be reminded of something important or maybe a speech or maybe a parent wants to order some food up from outside but don't want to disclose this to the children during this having a secret communication with the robots. So I would like to ask you a question based on your imagination. In what everyday scenario can you imagine discrete communication with the robots being useful?
+
+Both of you can answer.
+
+[NWG2]
+I think in the office setting when I'm working on something and if I'm feeling anxious or I'm feeling stressed out because of my working tasks so maybe the robot can help me out on it or ask that oh you are looking really stressed are you okay?
+
+[Speaker 1]
+And this is because the other person in the group cannot find out like that I am having this.
+
+[NWG2]
+For example if I'm working from home.
+
+[Speaker 1]
+What other discrete gestures or methods you could imagine? So the one gesture was like head gestures that you used.
+
+[NWG2]
+Can you show it to me?
+
+[Speaker 1]
+He used like head tilts like this for saying yes I have a particular card.
+
+[NWG2]
+Okay.
+
+[Speaker 1]
+So the robot was asking that do you have a rock card? So if he has a card then he can do like this but I think most of the time he doesn't have a particular card right?
+
+[WG2]
+So he was it was just in the last round where I was playing that I had to make a gesture to say okay I have it.
+
+[Speaker 1]
+Yeah and or method for a method we use like variable device sorry it's a earable. So what other discrete gesture or methods you could imagine?
+
+[WG2]
+About that I was a little bit surprised because I was afraid that will see that I have the ear but just just imagine that we switch to our seats so our seats place and he would have seen that I have something on my ear differently than in the first round. So in my head I thought maybe something more discrete like something that you can put inside of your clothes and just then press on the button to say okay I have it or I don't have it. It's more discrete than having an earbuds where you can see at first glance that he has something new.
+
+[NWG2]
+I agree with him maybe they could have been something like a footpress or a vibrotactile material to communicate. I'm not very observant so I didn't see the ear but are you still hearing it?
+
+[WG2]
+I used my cap to try to cover it a little bit to the side. I was so smart on that part.
+
+[NWG2]
+Other than that maybe there could have been something like eye gestures to say yes or no I think.
+
+[WG2]
+Like blinking.
+
+[NWG2]
+Yeah blinking would also be.
+
+[WG2]
+I think blinking is easiest.
+
+[Speaker 1]
+Okay and any final thoughts or reflection on the experience the experiment?
+
+[WG2]
+I remember that the robot isn't so. I think he will be more lively like if you interact more with him he will try to interact more with you but he just follow me like his usual routine. He's not complimenting the players during the game just waiting for the end.
+
+It's a little bit like you're happy but other one doesn't care about it so it made me a little bit sad on that part. I thought maybe if I greet him I say happy he's okay happy to meet you too or something like that. Or maybe if he cheats successfully he say yes well done we got him and something like that.
+
+A little bit more feedback.
+
+[NWG2]
+For me I would say that you try to make the robot more like a human because it remembered our names in the second round. I noticed it so I think that was really good and I think I felt that I was not talking to a robot. I felt like I was talking to a person maybe behind the screen but I know that you were controlling from the laptop but it felt like I was not interacting with the robot.

@@ -1,0 +1,85 @@
+[Speaker 1]
+In our experiment, we investigated the use of secret or what we call discrete communication with a robot in the presence of others. So, the other player had a secret interaction channel, the other player was having secret discrete interaction during the game via an earbud device, so this one like this and robot was informing about its card to the player and the player was also informing about its card via some head gestures. The hidden interaction was not happening all the time, but only during one of the games that you played.
+
+And the study was not intended to focus on cheating or defeating the other player or deception but rather on exploring whether such hidden communication with a robot is feasible in a group setting. You are selected as a non-user, so you are a non-wearer because you did not use this device. The other players was not informed about the totally he also does not know that you have a device or you do not know that he has a device and your selection was pure random as we decided that whoever decides to use the lab PC will wear this device, so it was totally random.
+
+So, if you have chosen the lab PC, then you could have to be the one. So, based on your overall experience in the game, I would like to ask you two questions, so that the robot and the other player communicated secretly, so how did that make you feel?
+
+[NWG8]
+In general, whenever you play such games in the group setting, the thing is like the person you know very well has some tell in the game like when you play poker or something, so it is very easy to judge what it is and the same thing can happen like you do not need any discrete channel, but in this case the other operator was a robot, so I think the discrete channel was like not like unfair or something like that.
+
+[Speaker 1]
+And when you were unaware of the secret communication, did you notice anything unusual or suspicious about the behavior of the robot or player or the player? If there is then just tell us, otherwise it is ok.
+
+[NWG8]
+I do not think they had a tell between them, but the thing is like in the second game like in second round, the thing was like little bit like she was like bit floppy or sloppy during the game.
+
+[Speaker 1]
+I think it was because of me the operator. And I think it is ok. Then this is for the, we call you as a wearer because you are wearing this device.
+
+So, as you know in our experience when we investigated the use of secret-discrete communication which I think I have already tell you everything about. So, based on your experience, I would like to ask you just a few questions. Did the fact that you communicated with the robot through the secret channel caused you any unease or find out you found any ethical concern regarding this?
+
+[WG8]
+Ethical concern I think it is probably in this game it was more of like I was taking a help of it or it was taking a help of me to defeat the other player.
+
+[Speaker 1]
+Ok. And were there moments when the discrete communication made you feel uneasy through the fact that other might find out?
+
+[WG8]
+No, I did not feel such.
+
+[Speaker 1]
+Ok. And how easy or difficult was it to use the subtle gesture like head tilts?
+
+[WG8]
+Yeah, it was very useful because it was more of like a common gesture and I do not think so the other person would have noticed it that evidently that I was making a gesture.
+
+[Speaker 1]
+So, he was making a gesture like a tilt of head so it would give like confirming that robot was asking that do you have a particular card or not. Ok. Did you feel any sense of like bonding or closeness during the discrete communication with the robot as a partner or a big team?
+
+[WG8]
+Yeah, definitely because it was helping me or like we were both playing together as a team to defeat the third player so it was more of like we were playing as a team I would say.
+
+[Speaker 1]
+Ok. Now, this is for both of you. So, in the card game scenario the discrete communication was only used as a means of helping player who is wearing the earbud device.
+
+However, in other context the same form of communication could serve different purpose and might not be perceived as immoral or unfair. For example, parents ordering something secretly by a robot and they do not want to inform their children or something like that or a meeting where robot sends important information about user's call or remind something important etc. So, this is based on your imagination in what everyday scenario anyway like workplace, homes, healthcare can you imagine discrete communication with robots being particularly useful if you have any idea?
+
+[NWG8]
+Like I would say like in board meetings or somewhere like there is a like merger talks or something are going on like when you are not completely known of the second party then it can prove as like itself as a valuable assistant to the game. Other thing is like in like healthcare system it can be very helpful because since like sometimes the patient can't take the blow so the like the relatives or someone who is with them can the doctor can directly convert like talk to them and it will be much better by this channel.
+
+[WG8]
+Yeah like I would prefer like when I am doing any multitasking or something like when I need a focus like in a video call or something meanwhile I need to all like have a track of something so it would be useful in that point.
+
+[Speaker 1]
+And what other discrete gestures or methods could you imagine being used to communicate secretly with the robots? So for gesture for example we use head gestures and for methods we use this ear-able device.
+
+[NWG8]
+So if you have any idea. Like certain movements with the eyes or something like that maybe eye gestures and like maybe like not very like like hand gestures but not in like very typical way but with the fingers or something like that and like normal like head scratching nose scratching type Bluffing.
+
+[Speaker 1]
+Yeah. You have the same.
+
+[WG8]
+Yeah. But with respect to earbuds I don't see other like what other alternative can be used.
+
+[Speaker 1]
+So this is the last question any final thoughts or reflections on the experience in the experiment you have.
+
+[NWG8]
+I think the robot was like much more like human type like it was making the eye contact and everything so it felt like more social more social and like group event type thing.
+
+[Speaker 1]
+Okay. Okay. So you have anything to say.
+
+No.
+
+[WG8]
+I think it could be like what you say more flexibility in the sense like more interactive I would prefer. Because like it was having like assists. I don't know like now we are just programmed it for a set of commands probably.
+
+So probably more of like learning perspective interactively.
+
+[Speaker 1]
+Okay. Yeah. So thank you.
+
+And our experiment and the interview.

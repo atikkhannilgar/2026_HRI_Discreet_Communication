@@ -1,0 +1,94 @@
+[Speaker 1]
+So, in this experiment, we call you a non-bearer, which we investigated the use of a secret or what we call discrete communication with the robot in the presence of others. So, the other player had a secret interaction channel with the robot. It was like he was having this discrete interaction during the game by an earbud device in his left ear.
+
+So, basically the robot was informing about his card to the player and the player was also informing about his card via head gestures. So, if you're doing like if you have a rock, then the player will do something like this. So, this will give a yes command to the robot and the robot was also informing that what the card robot has.
+
+So, this hidden interaction was not happening all the time, but only during one of the games that you played. So, the study was not intended to focus on cheating or defeating the player or deception, but rather on exploring that whether such a hidden communication with the robot is feasible in group setting and you are selected as a non-bearer. So, you have no hidden communication with the robot and this was purely random as we decided that whoever used the lab PC will wear this device.
+
+So, based on this, I would like to ask you two questions. So, robot and the other player was communicating secretly. How did that make you feel?
+
+[NWG12]
+Now that you tell me this, well, I feel okay with that.
+
+[Speaker 1]
+Okay. And when you were unaware of this channel, did you notice anything unusual or suspicious about the behavior of robot or maybe player?
+
+[NWG12]
+Not at all. No, nothing suspicious about the behavior of both of them. I was just suspicious that the robot was always winning in the first round.
+
+[Speaker 1]
+Okay. And by the way, the first round where we did not use the device. Okay.
+
+So, it was purely luck.
+
+[NWG12]
+Okay. Yeah.
+
+[Speaker 1]
+Just luck.
+
+[NWG12]
+Yes.
+
+[Speaker 1]
+Okay. And this is for you. If you can come here.
+
+So, I can just record your voice. Okay. So, did the fact that you communicated with the robot to a secret channel cause you any unease or maybe any ethical concern?
+
+[WG12]
+At first, I felt a bit anxious and stressed that am I using it right? Am I using it wrong? But when I used it, no, it was easy and I didn't feel anything.
+
+[Speaker 1]
+And so, were there any moments when the discreet communication made you feel uneasy through the fact that the other player might find out?
+
+[WG12]
+No, since it was a game, I didn't have bad feelings.
+
+[Speaker 1]
+Okay. And how easy or difficult was it to use this gesture?
+
+[WG12]
+The tilt gesture?
+
+[Speaker 1]
+Yes.
+
+[WG12]
+It was easy.
+
+[Speaker 1]
+And did you feel any sense of bonding or closeness during the discreet communication with the robot? Maybe as a teammate or partner?
+
+[WG12]
+Not necessarily.
+
+[Speaker 1]
+Okay. And this is for both of you. So, in the card game scenario, this discreet communication was used as a means of helping player who is wearing the earbud device.
+
+However, in other contexts, the same form of communication could serve different purpose and might not perceived as immoral or unfair. For example, maybe in a meeting scenario where in the group everyone is present and there is some important information that you need to be in mind or maybe call alarm or something like this, or maybe a parent wants to order something and they do not want to inform their children about it, especially with the robot giving a secret instructions. So, based on this imagination in what everyday scenario, maybe you can imagine such kind of discreet communication can happen.
+
+[NWG12]
+Do you need an example, right? Yes.
+
+[WG12]
+That it does not feel wrong, a scenario that...
+
+[Speaker 1]
+Yeah, it does not feel wrong or maybe what you can see that it could be helpful in any way like...
+
+[WG12]
+I have something in my mind. For some people, for example, who have mental problems and they should be treated in a way that they shouldn't know that, that could help.
+
+[NWG12]
+From my point of view, I think that in... I don't have any specific scenario in my mind, but I think about every situation, every scenario where there are two layers of communications and so I think this is extremely useful. So, even in a working environment, a family environment, or even in a game scenario, in whichever scenario there are two levels of communications or more levels of communications.
+
+[Speaker 1]
+Okay. And what other discreet gestures or methods you could imagine can be useful in such kind of communication with the robots? So, for gesture, we use head gestures and methods as for we use like this communication earables.
+
+These are like earbuds with IMU sensors. So, what...
+
+[WG12]
+For gesture, for example, blink could work.
+
+[NWG12]
+Yeah, or maybe touching your face in a specific point or maybe touching another part of your body or yeah, I don't know, maybe using some specific sentences or maybe that can be more suspicious or well, maybe also producing some specific sound. Yeah, I don't know.

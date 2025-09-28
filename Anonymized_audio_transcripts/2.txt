@@ -1,0 +1,98 @@
+
+[Speaker 1]
+So, in our experiment we investigated the use of a secret or what we call discrete communication with a robot in the presence of others. So, the other player had a secret interaction channel, the other player was having discrete interaction during the game via ear bud device and the robot was informing about its card to the player and a player was also informing about his card via head gestures. So, this hidden interaction was not happening all the time, but only during one of the games that you played and the study was not intended to focus on cheating or defeating the other player or deception, but rather on exploring whether such hidden communication with robot is visible in the group setting. And you are selected as a non-user, so you are not using the device as hidden communication with the robot and the other player was not informed about this that you also do not have a device and you were selected purely randomly as we decided that whoever decides to choose the lab PC will be given this device. So, it was purely random and based on your overall experience in the game I would like to ask you two questions. So, first is robot and the other player communicated secretly, so how did that make you feel?
+
+[NWG1]
+It made me feel very neutral, it was not something that.
+
+[Speaker 1]
+Is it because that the it is because the because it is just a game?
+
+[NWG1]
+Yeah it was just because it was just a game.
+
+[Speaker 1]
+And so, when you were unaware of this secret communication, did you notice anything unusual or suspicious about the behavior of the robot or player other player?
+
+[NWG1]
+No, I did not feel suspicious.
+
+[Speaker 1]
+These are some questions for wearer. So, of course, now the other player know about this did the fact that you communicated with the robot through a secret channel caused you any unease or in form of any ethical concern?
+
+[WG1]
+I feel that was a little unfair for the other player, but as it is just a game that is fine.
+
+[Speaker 1]
+And were there moments when the discreet communication made you feel uneasy through the fact that other might find out?
+
+[WG1]
+No, there was not.
+
+[Speaker 1]
+And how easy or difficult was it to use this subtle gesture like head tilts?
+
+[WG1]
+It was easy because that was just a slight head tilt right, so that was easy that was not difficult.
+
+[Speaker 1]
+Did you feel any sense of like bonding or maybe closeness during the discreet communication with the robots such as like it is a kind of a partner or friend who is helping you?
+
+[WG1]
+I feel like we are playing in a team.
+
+[Speaker 1]
+So, now this there are some questions for both of you, like in the card game scenario discreet communication was used as a means of helping player who is wearing the earbud device. However, in other context the same form of communication could serve different purpose right and might not be perceived as immoral or unfair. For example, like parents ordering pizza secretly by the robot and not informing the children or maybe in a meeting where robots send important information to the users and remind something important.
+
+So, these are some examples. So, I would like to ask you in what everyday scenario or workplace maybe homes, healthcare can you imagine such kind of discreet communication with robots being used, if you have any idea.
+
+[NWG1]
+So, should I give an example?
+
+[Speaker 1]
+Yes, you can.
+
+[NWG1]
+Yeah. So, one example that I can think of is so, in a scenario where the doctor is examining a patient and he has a AI assistant with him or AI robot with him. So, in that case so, he can communicate with the robot without the patient being informed about what the communication is all about.
+
+So, that the patient does not get nervous about what the operation of what the procedure is going to follow on him or what the treatment will be. So, sometimes the doctor needs to have the patient in a very calm state rather than in a panic state. So, that might help the so, that the process will get completed, but it will also not panic the patient.
+
+[Speaker 1]
+Yeah.
+
+[NWG1]
+Yeah.
+
+[Speaker 1]
+And this question for both of you. So, like if you have any say anything you can say otherwise I can ask next question.
+
+[WG1]
+This can be used in security reasons as well where there are like high level security meetings about say about the national safety or anything like that where there are some things which cannot be disclosed in front of everyone. Yeah. So, at times like this, this can be used.
+
+[Speaker 1]
+Ok. And what other discrete gestures or methods you could imagine being used to communicate well. So, one of the gesture was like head tilts as we did and what other gestures or methods may be.
+
+So, we use for a method like a communication with ear bud. So, you can if you have like any scenario that you can imagine or maybe method or gesture.
+
+[NWG1]
+So, say maybe discrete hand movements in a video frame or maybe some kind of movement of an eyebrow or anything like that, that can be one as well. Do you want to say something?
+
+[WG1]
+Yeah. The same like the gestures with fingers or if it is a yes no kind of thing, it is just like a smile or the opposite thing. Yeah, that is it.
+
+[Speaker 1]
+Ok. Yeah. So, now last question, any final thoughts or reflections on the experience in the experiment?
+
+[NWG1]
+I think the experiment was very accurate I would say and I think if the robot felt very human like, I mean not actually human, but a very human like in behavior, it did not make the person in front of it interacting with the robot nervous or anything like that. So, that was one the positive that I would say.
+
+[Speaker 1]
+Yeah. Okay. You have anything to say?
+
+[WG1]
+Yeah. The robot was very easy to use. The interaction was also like not too difficult to understand and the interaction in itself was very smooth like I did not feel, at any point I did not feel any pressure like what am I doing.
+
+So, that was overall it was a very good experience.
+
+[Speaker 1]
+Okay. Yeah. And thank you very much.

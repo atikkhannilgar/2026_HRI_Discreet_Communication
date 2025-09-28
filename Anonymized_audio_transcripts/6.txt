@@ -1,0 +1,88 @@
+[Speaker 1]
+So, in our experiment we investigated the use of secret or what we call discrete communication with a robot in the presence of others. So, the other player had a secret interaction channel and the other player was having a discrete interaction during the game via an earbud device.
+
+The robot was informing about its card to the player and player was also informing about its card via some head gestures. So, this interaction was not happening all the time but only during one of the games that you play. So, the study was also not intended to focus on cheating or defeating the player but rather on exploring whether such communication with the robot is visible in a group setting and you are selected as a non-user so you had no hidden communication with the robot and it was purely random as we decided that whoever used the lab PC will wear this device.
+
+So, and so based on your experience in the game I would like to ask you two questions. So, one is robot and the player had communicated secretly so how did it make you feel?
+
+[NWG5]
+I didn't know about it.
+
+[Speaker 1]
+I didn't notice it at all. So, I think you already also answer your second question that you did not you were not aware about this and you did not notice anything?
+
+[NWG5]
+No, I didn't notice anything.
+
+[Speaker 1]
+This is for you. So, did the fact that you communicated with the robot through a secret channel cause you any unease or ethical concern? I think of course it's a game, I know.
+
+[WG5]
+I mean in general it wouldn't in this setting specifically where it's designed for cheating another player it of course causes concerns and in that sense.
+
+[Speaker 1]
+And were there moments when the discrete communication made you feel uneasy through the fact that other might find out?
+
+[WG5]
+Of course, slightly but I think in this setting specifically more in that sense that I would be worried that your experiment fails. But in general I think it's discrete enough that it's not really of a concern.
+
+[Speaker 1]
+And how easy or difficult was for you to do this gesture?
+
+[WG5]
+It felt slightly unnatural because you're normally not not forced to do something.
+
+[Speaker 1]
+So, he was like doing like this for saying yes that I have a particular card and the robot was sending signals like.
+
+[NWG5]
+Okay, no I didn't notice at all. I think I was more focused on the screen of the robot than on you because I thought they were two equal players and playing against the robot.
+
+[Speaker 1]
+And so, did you feel any sense of bonding or closeness during the discrete communication with the robot like partner or teammate?
+
+[WG5]
+Probably yeah like a teammate because I mean we are sharing information that didn't have.
+
+[Speaker 1]
+So, okay and this is for both of you. Now in the card game scenario this discrete communication was used as a means of helping player who is wearing the device. However, in other context the same form of communication could serve different purpose and might not be perceived as unfair or immoral.
+
+For example, sending some signals in a group where reminding about some important information or maybe during a speech or maybe when I think we found one example like parents ordering something and they do not want to disclose this to their children. So, they have this different kind of communication with the robot to order something. So, based on your imagination in what scenarios can you imagine this discrete communication with robots being useful?
+
+[NWG5]
+I mean basically on any group scenario or answering a question or whatever or so would be a prerequisite for following questions but you want to keep it private from other group members. But yeah then everyone would need to have a secret handshake with the robot. So, might not be super feasible or I don't know like secrets identification for like I want to quit but don't want to disclose it or leave the experiment or whatever.
+
+I don't know like some tapping out secrets.
+
+[WG5]
+This isn't even something that has to be about secrets right but just about communication itself. So, if I communicate in a group and the robot sends different messages to each player at the same time this might be much easier for communication than talking to them individually or yeah.
+
+[Speaker 1]
+And what other discrete gestures or methods you could imagine can be used in such kind of communication? So, you had an earable device? So, for the gesture he was using tilt of head and then for methods as we using earable essence, earable device for the communication.
+
+[WG5]
+Is this about sending messages or receiving them?
+
+[Speaker 1]
+So, it's like a bi-directional communication. So, basically in confirming something as well as if you want information then you can also get those information.
+
+[WG5]
+Something that you could use is doing so the robot does lip reading like I mouth the words I want to say but I don't say them and it detects this and understands it because this would make communication much faster I guess. This paired with hearing could probably be as fast as just talking to each other.
+
+[Speaker 1]
+I think that other participants have said like eyebrows raising or something like this. Maybe some hand gestures.
+
+[NWG5]
+And if you move the eyes I mean you could also place wearable device anywhere else.
+
+[Speaker 1]
+Yeah, so you can change the wearable device as well like use watch or something.
+
+[NWG5]
+Yeah, so I think like some watchers now recognize if you do this.
+
+[Speaker 1]
+Yeah, I know that they have this. So, yeah I think that's it. Any final thoughts or reflections on the experience?
+
+[NWG5]
+I mean I want to know how you did it.

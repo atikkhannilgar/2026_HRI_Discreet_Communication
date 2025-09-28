@@ -1,0 +1,82 @@
+[Speaker 1]
+Okay, so this is for you, so we call you a non-wearer, the reason is in our experiment we investigated the use of secret or what we call discrete communication with a robot in the presence of others. So the other player had a secret interaction channel, the other player was having discrete interaction during the game via an earbud device, if you can see that this earbud device has IMU sensors, so the robot was informing about his card to the player and the player was also informing about his card via head gestures and this hidden interaction was not happening all the time but only during one of the games that you played.
+
+So the study was not intended to focus on cheating or defeating the other player but rather on exploring whether such hidden communication with a robot is feasible in a group setting and you are selected as a non-user, so you have no hidden communication with the robot and the other player was also not informed about this that you didn't have any device during the game. So you were selected purely randomly as we decided that whoever decides to enter in the lab and use the lab PC will be chosen for wearing this device, this was purely random and so based on this experience, I would like to ask you two questions, robot and the other player communicated secretly, so how did that make you feel?
+
+[NWG10]
+I was not aware of the interaction because I was more focused on the game in general and not about how they were communicating with each other and even if they did, that was not visible to me in a way that I would notice.
+
+[Speaker 1]
+Okay, I think you already answered your second question which is like if you have noticed anything during the game, something like this, so specifically he was using the device only during the first game that you played when you came, so yeah and this is for you, we call you a wearer because you are using this device, so is the fact that you communicated with the robot through a secret channel, cause you any unease or maybe ethical concern?
+
+[WG10]
+No.
+
+[Speaker 1]
+Okay, were there moments when the discrete communication made you feel uneasy through the fact that other might find out the other person?
+
+[WG10]
+Yes, so because it involved to communicate to the robot that what kind of card do I have so that I or the robot can make the decision of who to play against in order to win and this was a physical movement, so somebody might notice and if it, because it was just once or twice, it was difficult for non-wearer to notice it, but otherwise if it, somebody can notice that there is a pattern that a person or the robot is winning and this thing is happening, so it made me a bit aware of the fact that yeah, I can be caught.
+
+[Speaker 1]
+How easy or difficult was it to use this gesture as a discrete communication method?
+
+[WG10]
+It was fairly easy, all I had to do was tilt my head to the right and yeah, so it was easy but yeah, there are chances of getting caught.
+
+[Speaker 1]
+But if I remember then you don't have a particular card most of the time, which the robot asks and you...
+
+[WG10]
+I did have it once, it asked me twice I think, I had it once, so I tilt my head and the other time I did not.
+
+[Speaker 1]
+Okay. And did you feel any sense of bonding or closeness during the discrete communication with the robot as a sense of maybe teammate or partner?
+
+[WG10]
+Yeah, so it felt like the two of us were playing against the non-wearer.
+
+[Speaker 1]
+Okay, now this question is for both of you, so in the card game scenario, discrete communication was used as a means of helping player who is wearing the earbud device. However, in other contexts, the same form of communication could serve different purpose and might not be perceived as immoral or unfair. For example, I think we saw this example as like parents wants to order some food via this secretly with the robot and did not want to alarm their children about this or a meeting was going on in a group setting where the robot is sending some important information to the users reminding about a call or maybe as during a speech and or maybe during a therapy where the patient does not want to disclose his personal data and which can only go to a therapist or something. So based on this, in what everyday scenario, maybe you can imagine this kind of discrete communication with the robots being useful, if you can, if you have any idea?
+
+[WG10]
+I think it could be useful in maybe press release when people are sharing sensitive information but so I'm not really sure how it could be used in that but yeah or even in in terms of military maybe so yeah you can surveil the enemy and you can get to know what they have, they do not have. So it would kind of be working like the secret agents across the borders that that is something I can see it being used.
+
+[Speaker 1]
+Okay, you have anything?
+
+[NWG10]
+Yeah maybe in in in an academic setting maybe when you are probably, I don't have a very good idea how to put it in words, maybe when, let's let's go to the second question like what other discrete gestures or maybe methods that you can imagine can be used to communicate secretly with the robots.
+
+[Speaker 1]
+So one of the gestures that like we use is a head gesture and for methods we use the earable device to communicate secretly with the robots.
+
+[NWG10]
+Maybe blinking as well?
+
+[WG10]
+Any form of bodily movement that that can be perceived natural to disguise it from being identified as a way of communication and apart from hearing visual cues will not be a good idea because others can see it will not be discrete. Some kind of force feedback that from a device that can be worn on the body maybe maybe from a smartwatch or something but then it might be limited because um so it could be binary so it a question is asked it vibrates or not yes or no something like that yeah.
+
+[Speaker 1]
+You have anything to say?
+
+[NWG10]
+Yeah I think that's yeah that's pretty much it yeah.
+
+[Speaker 1]
+Okay so yeah any final thoughts or reflections on the experience if you have anything in the experiment?
+
+[WG10]
+So you mean kind of feedback?
+
+[Speaker 1]
+Yeah like feedback or general whatever.
+
+[NWG10]
+Yeah I think it was great interacting with it it was it was sort of a first experience being in in an experiment like this and it was nice talking and it seemed very smart like as of how how things were done so yeah.
+
+[WG10]
+Yeah it was nicely done yes and I mean I don't really have any kind of feedback here because things were clear to me and I can see the purpose it can be used for.
+
+[Speaker 1]
+Okay yeah then thank you very much.
